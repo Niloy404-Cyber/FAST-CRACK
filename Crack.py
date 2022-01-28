@@ -1,3 +1,6 @@
+# enc by niloy ahmed
+# ;)
+
 niloyvau=(
 "NILOY-VAU","NILOY-VAU","NILOY-VAU","NILOY-VAU",
 "NILOY-VAU","NILOY-VAU","NILOY-VAU","NILOY-VAU",
