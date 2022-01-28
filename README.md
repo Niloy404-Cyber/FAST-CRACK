@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 🟩 cd FAST-CRACK
 
-🟩 python2 GHOST.py
+🟩 python2 Crack.py
 ```
 🟩 Password Inbox My FB
 
